@@ -1,0 +1,72 @@
+[
+  {
+    "nom": "Site de Montesson",
+    "latitude": 48.91367,
+    "longitude": 2.15861
+  },
+  {
+    "nom": "Diffuseur 6.a Chambourcy",
+    "latitude": 48.90803,
+    "longitude": 2.05164
+  },
+  {
+    "nom": "Site de Buchelay",
+    "latitude": 48.98366,
+    "longitude": 1.68142
+  },
+  {
+    "nom": "Heudebouville",
+    "latitude": 49.19322,
+    "longitude": 1.23142
+  },
+  {
+    "nom": "Incarville",
+    "latitude": 49.24525,
+    "longitude": 1.18466
+  },
+  {
+    "nom": "Bourg-Achard",
+    "latitude": 49.36494,
+    "longitude": 0.81689
+  },
+  {
+    "nom": "Diffuseur Bourneville",
+    "latitude": 49.37750,
+    "longitude": 0.62595
+  },
+  {
+    "nom": "Echangeur Bourneville",
+    "latitude": 49.38608,
+    "longitude": 0.60242
+  },
+  {
+    "nom": "Diffuseur Toutainville",
+    "latitude": 49.36406,
+    "longitude": 0.46811
+  },
+  {
+    "nom": "Site de Beuzeville",
+    "latitude": 49.33816,
+    "longitude": 0.36842
+  },
+  {
+    "nom": "Echangeur Quetteville",
+    "latitude": 49.32173,
+    "longitude": 0.30897
+  },
+  {
+    "nom": "Site de Dozulé",
+    "latitude": 49.22911,
+    "longitude": -0.07933
+  },
+  {
+    "nom": "Diffuseur de Troarn",
+    "latitude": 49.17914,
+    "longitude": -0.20108
+  },
+  {
+    "nom": "Echangeur de Cagny",
+    "latitude": 49.16814,
+    "longitude": -0.24397
+  }
+]
